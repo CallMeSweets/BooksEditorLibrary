@@ -1,0 +1,31 @@
+﻿
+
+div {
+    
+    margin-top: 5px;
+}
+
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 15px;
+}
+
+
+
+.tableSettings {
+    width: auto;
+    height: 680px;
+    overflow-y: auto;
+}
+
+.ReactTable{
+    margin-right: 10px;
+    margin-left: 10px;
+}
